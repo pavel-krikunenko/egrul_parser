@@ -1,0 +1,5 @@
+companies.db
+.lockfile
+egrul.json.zip
+venv
+__pycache__
